@@ -5,7 +5,7 @@ Public downloads and in-app updates for Virent testers on Windows and Android.
 ## 1. Install Virent
 
 1. Open the [Virent download page](https://github.com/N7-Spectres/virent-downloads/releases/latest) and scroll to **Assets**.
-2. **Windows:** Download the Windows installer (`Virent-Setup-….exe`) from that release, run it, and open Virent.
+2. **Windows:** [Download Virent.exe](https://github.com/N7-Spectres/virent-downloads/releases/latest/download/Virent.exe), run the installer, and open Virent. This link always downloads the current Windows release.
 3. **Android:** Download and open the Android installer (`Virent-….apk`) from that release. Follow Android’s install prompts. Open Virent, tap **Allow “Display over other apps”**, and turn it on so your avatar can appear on screen.
 
 ## 2. Connect your Kin
